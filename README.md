@@ -97,8 +97,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aftab12ansari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="github stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aftab12ansari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=aftab12ansari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="github stats"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=aftab12ansari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages"/>
 
 <br>
 
@@ -106,7 +106,7 @@
 
 </div>
 
-> 💡 These run on a shared free service that occasionally goes down for everyone. If broken, wait a few minutes and hard-refresh — it's not something wrong with your repo.
+> 💡 If a card ever shows broken again, wait a minute and hard-refresh (Ctrl+Shift+R) — these are still free hosted services and can have brief blips, but this mirror is actively maintained and far more stable than the old one.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -116,7 +116,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=aftab12ansari&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies"/>
 </div>
 
-> 💡 Same free-tier caveat as above — this section is optional decoration, safe to delete if it keeps breaking.
+> ⚠️ This particular service (`github-profile-trophy.vercel.app`) has no actively maintained mirror. If it stays broken after a day, the safest fix is to just delete this section — it's purely decorative and not worth chasing a dead free-tier service.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -140,6 +140,16 @@
 ## 📱 Live Published Apps
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/Published_on-Google_Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+
+<p>5 apps designed, developed & published end-to-end — from Play Console setup, signing, and store listing to release rollout.</p>
+
+<a href="https://play.google.com/store/apps/developer?id=BSS">
+<img src="https://img.shields.io/badge/View_Developer_Profile-Google_Play-0F9D58?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<br><br>
 
 <table>
 <tr>
